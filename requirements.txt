@@ -3,6 +3,3 @@ pandas
 uk_covid19
 voila
 ipywidgets
-datetime
-time
-json
